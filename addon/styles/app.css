@@ -1,0 +1,46 @@
+body {
+    padding: 10px;
+}
+
+.demo-notice-component {
+    border: 1px solid black;
+    padding: 5px;
+    width: 300px;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+
+.demo-notice-component-heading, .demo-notice-component-footer {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    min-height: 20px;
+    font-weight: bold;
+}
+
+.demo--noticecomponent-heading {
+    margin-bottom: 5px;
+}
+
+.demo-notice-component-footer {
+    background-color: orangered;
+    margin-top: 5px;
+}
+
+.demo-numbers-component {
+    border: 1px solid black;
+    padding: 4px;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+
+.demo-numbers-component-cell {
+    margin: 2px;
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: tan;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+}

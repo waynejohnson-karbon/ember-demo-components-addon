@@ -1,0 +1,10 @@
+<div class="demo-numbers-component">
+    {{#each this.markers as |marker| }}
+        {{#if (equals marker.bookEnd 0 ) }}
+            <div></div>
+        {{/if}}
+        <div class="demo-numbers-component-cell">
+            {{marker.num}}
+        </div>
+    {{/each}}
+</div>
