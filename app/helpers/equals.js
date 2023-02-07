@@ -1,1 +1,1 @@
-export { default } from 'ember-demo-components-addon/helpers/equals';
+export { default } from '@waynejohnson-karbon/ember-demo-components-addon/helpers/equals';

@@ -1,1 +1,1 @@
-export { default } from 'ember-demo-components-addon/components/demo-notice-component';
+export { default } from '@waynejohnson-karbon/ember-demo-components-addon/components/demo-notice-component';
